@@ -1,5 +1,5 @@
 # devops-aula02
 
-Ed Murff
-jennifer lopes
-Sabotagem
+#Ed Murff
+#jennifer lopes. editei
+#Sabotagem
